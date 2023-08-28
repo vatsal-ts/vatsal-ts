@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsal Gupta</h1>
 <h3 align="center">A passionate researcher, developer and coder from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-ts&label=Profile%20views&color=0e75b6&style=flat" alt="vatsal-ts" /> </p>
 
 
 - 🌱 I’m currently learning **Django**
