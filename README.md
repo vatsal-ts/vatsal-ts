@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **vatsal.gupta0804@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
