@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently working on extensive research on NLP and CV projects.
+- 🌱 I’m currently purusing extensive research on NLP and CV projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vatsal-ts?tab=repositories](https://github.com/vatsal-ts) or associated organisations that I'm a part of.
 
-- 📫 How to reach me **vatsal.gupta0804@gmail.com**
+- 📫 How to reach me **vatsal.gupta0804@gmail.com** or **g.vatsal@alumni.iitg.ac.in**
 
 
 <h3 align="left">Connect with me:</h3>
