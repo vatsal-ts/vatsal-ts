@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working on extensive research on NLP and CV projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/vatsal-ts?tab=repositories](https://github.com/vatsal-ts)
+- 👨‍💻 All of my projects are available at [https://github.com/vatsal-ts?tab=repositories](https://github.com/vatsal-ts) or associated organisations that I'm a part of.
 
 - 📫 How to reach me **vatsal.gupta0804@gmail.com**
 
