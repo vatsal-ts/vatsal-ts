@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Gupta</h1>
-<h3 align="center">A passionate researcher, developer and coder from India.</h3>
+<h3 align="center">A passionate researcher and coder.</h3>
 
 
 
